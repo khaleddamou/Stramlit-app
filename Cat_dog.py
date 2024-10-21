@@ -1,7 +1,7 @@
 import streamlit as st
-import joblib
-from PIL import Image
-import numpy as np
+# import joblib
+# from PIL import Image
+# import numpy as np
 
 # # Charger le modèle pré-entraîné
 # model = joblib.load('my_model.joblib')
