@@ -4,7 +4,7 @@ from PIL import Image
 import numpy as np
 
 # Charger le modèle pré-entraîné
-model = joblib.load(r'C:\Users\hp\OneDrive\Bureau\neural_network\Cat_Dog_Clasification\my_model.joblib')
+model = joblib.load('my_model.joblib')
 
 # Fonction pour préparer l'image (normalisation + reshape)
 def preprocess_image(image):
