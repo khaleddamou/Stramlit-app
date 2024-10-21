@@ -1,6 +1,6 @@
-streamlit==1.39.0
-joblib==1.2.0
-Pillow==10.2.0
-numpy==1.26.4
-setuptools==65.5.0  # Inclut distutils dans certaines versions
-dill==0.3.6
+streamlit
+joblib
+Pillow
+numpy
+setuptools
+dill
