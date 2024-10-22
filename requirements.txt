@@ -1,0 +1,12 @@
+streamlit
+joblib
+Pillow
+numpy
+setuptools
+dill
+keras
+tensorflow
+sklearn
+matplotlib
+random
+pandas
