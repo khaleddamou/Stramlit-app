@@ -10,3 +10,8 @@ sklearn
 matplotlib
 random
 pandas
+plotly
+scipy
+Flask
+flask-cors
+pyforest
