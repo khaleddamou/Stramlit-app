@@ -6,7 +6,7 @@ setuptools
 dill
 keras
 tensorflow
-sklearn
+scikit-learn
 matplotlib
 random
 pandas
