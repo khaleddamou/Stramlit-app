@@ -6,9 +6,8 @@ setuptools
 dill
 keras
 tensorflow
-scikit-learn
-matplotlib
-random
+scikit-learn==1.2.2
+matplotlib==3.8.0
 pandas
 plotly
 scipy
