@@ -1,16 +1,9 @@
-streamlit
 joblib
 Pillow
 numpy
-setuptools
 dill
 keras
 tensorflow
 scikit-learn==1.2.2
 matplotlib==3.8.0
 pandas
-plotly
-scipy
-Flask
-flask-cors
-pyforest
