@@ -1,8 +1,9 @@
+joblib
 Pillow
 numpy
 dill
 keras
 tensorflow
-scikit-learn==1.2.2
-matplotlib==3.8.0
+scikit-learn
+matplotlib
 pandas
