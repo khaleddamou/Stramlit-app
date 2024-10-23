@@ -1,1 +1,1 @@
-web: streamlit run Cat_dog.py
+web: streamlit run app.py
