@@ -1,6 +1,6 @@
 streamlit
 joblib
-Pillow
+pillow
 numpy
 dill
 keras
