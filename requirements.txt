@@ -1,10 +1,10 @@
-streamlit
+streamlit==1.24.1
 joblib
 pillow
 numpy
 dill
 keras
 tensorflow
-scikit-learn
+scikit-learn==1.9.1
 matplotlib
 pandas
